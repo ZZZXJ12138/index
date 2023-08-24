@@ -1,0 +1,6 @@
+[book]
+authors = ["zz"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "体育训练资料"
